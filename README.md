@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @annous246 ;
+- 👋 Hi, I’m @anas rabhi ;
 - 👀 I’m interested in anything that involves developping , problem and riddle solving ;
 - 🌱 I’m currently learning competitive programming with c and c++ , in addition front end web design ..........
 - 💞️ I’m looking to collaborate on any project or debugging problems ;
