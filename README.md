@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing competitive programming with c++ , in addition Java and front end web design ..........
 - 💞️ I’m looking to collaborate on any project or debugging problems ;
 - 📫 How to reach me on my linked in ---> [...](https://www.linkedin.com/in/anas-rabhi-348123244/) // or my email ---> anasrabhi0@gmail.com ;
-- Known Languages (c/c++/Java/HTML/CSS/Python)
+- Known Languages (C/C++/Java/HTML/CSS/Python)
 
 <!---
 annous246/annous246 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
