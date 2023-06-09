@@ -6,8 +6,7 @@
 - Known Coding Languages (C/C++/Java/Python)
 - Known Tagging Languages (HTML/CSS)
 - Known Operating Languages (Bash/Git)
-- 
-- Still uploading constantly on my hub (old and newer projects)
+- Still uploading constantly on my hub (old and newer projects)!!!
 
 <!---
 annous246/annous246 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
