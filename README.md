@@ -3,8 +3,8 @@
 - 🌱 I’m currently doing competitive programming with c++ , in addition Java and front end web design ..........
 - 💞️ I’m looking to collaborate on any project or debugging problems ;
 - 📫 How to reach me on my Linked in ---> [...](https://www.linkedin.com/in/anas-rabhi-348123244/) // or my Email ---> anasrabhi0@gmail.com ;
-- :computer: Known Coding Languages (C/C++/Java/Python)
-- :triangular_flag_on_post: Known Tagging Languages (HTML/CSS/JS)
+- :computer: Known Coding Languages (C/C++/Java/Python/JavaScript)
+- :triangular_flag_on_post: Known Tagging Languages (HTML/CSS)
 - :floppy_disk: Known Operating Languages (Bash/Git)
 - :round_pushpin: Still uploading constantly on my hub (old and newer projects)!!!
 
