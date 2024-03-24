@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @anas rabhi ;<br>- 👀 I’m interested in anything that involves developping , problem and riddle solving ;<br>- 🌱 I’m currently doing competitive programming with c++ , in addition JavaScript for WebDev Specifically Backend Development ..........<br>- 💞️ I’m looking to collaborate on any project or debugging problems ;
+- 👋 Hi, I’m @anas rabhi ;<br>- 👀 I’m interested in anything that involves developping , problem and riddle solving ;<br>- 🌱 I’m currently doing competitive programming with c++ , in addition JavaScript for WebDev Specifically Backend Development ..........<br>- 💞️ I’m looking to collaborate on any project or debugging and solving problems ;
 
 
 ## 🌐 Socials:
