@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @anas rabhi ;<br>- 👀 I’m interested in anything that involves developping , problem and riddle solving ;<br>- 🌱 I’m currently doing competitive programming with c++ , in addition JavaScript for WebDev Specifically Backend Development ..........<br>- 💞️ I’m looking to collaborate on any project or debugging and solving problems ;
+- 👋 Hi, I’m @anas rabhi ;<br>- 👀 I’m interested in anything that involves developping , problem and riddle solving ;<br>- 🌱 I’m currently Full Stack (MERN) Web Developer   , in addition doing competitive programming with c++ ..........<br>- 💞️ I’m looking to collaborate on any  project or debugging and solving problems ;
 
 
 ## 🌐 Socials:
@@ -24,6 +24,7 @@
 ![Mongoose](https://img.shields.io/badge/mongoose-%23323330.svg?style=for-the-badge&logo=mongoose&logoColor=890000)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=0096FF) 
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=annous246&theme=dark&hide_border=false)<br/>
