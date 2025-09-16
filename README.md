@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @anas rabhi ;<br>- 👀 I’m interested in anything that involves developing , problem and riddle solving ;<br>- 🌱 I’m currently Full Stack (MERN) Web Developer   , in addition doing competitive programming with c++ ..........<br>- 💞️ I’m looking to collaborate on any  project or debugging and solving problems ;
+- 👋 Hi, I’m @anas rabhi ;<br>- 👀 I’m interested in anything that involves developing , problem and riddle solving ;<br>- 🌱 I’m currently Full Stack (MERN/PERN) Web Developer/ React Native Mobile Developer/ AI Engineer   , in addition doing competitive programming with c++ ..........<br>- 💞️ I’m looking to collaborate on any  project or debugging and solving problems ;
 
 
 ## 🌐 Socials:
